@@ -8,7 +8,7 @@ NGROK_AUTH_TOKEN
 
 `NGROK_AUTH_TOKEN` and in `Secret` type the Your `NGROK AuthToken` you can find it if you go back to NGROK an click on `Getting Started` and click on `Your AuthToken` and copy the code and paste it in `*Secret` in Github and click `Add secret`, after adding the secret go to actions again and now you will see `Simple Workflow` click on `Configure` and remove the old code and replace it with that code:
 
-# rdp Yaml Code
+# rdp Configure Yaml Code
 
 ```
 name: CI
