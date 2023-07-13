@@ -1,7 +1,12 @@
+# Open NGROK
+<!--[NGROK](https://ngrok.com/)-->
+Sign up in <a href="https://ngrok.com/"><img src="https://i.ibb.co/HpCw3jR/fg.png" alt="NGROK" border="0" height="23" weight="70" style="display:inline-flex"></a> and verify your account if you're signed up using e-mail, and after that go back to github and create a new repository make it private if you want (recommended), and after create it then go to actions and click on `set up a workflow yourself ` and after that go to `settings` and click on `Secrets and variables` and click on `Actions`, after that click on `New repository secret` and in the name type the 
 # NGROK AUTH_
 ```
 NGROK_AUTH_TOKEN
 ```
+
+`NGROK_AUTH_TOKEN` and in `Secret` type the Your `NGROK AuthToken` you can find it if you go back to NGROK an click on `Getting Started` and click on `Your AuthToken` and copy the code and paste it in `*Secret` in Github and click `Add secret`, after adding the secret go to actions again and now you will see `Simple Workflow` click on `Configure` and remove the old code and replace it with that code:
 
 # rdp Yaml Code
 
@@ -54,12 +59,22 @@ jobs:
 
 ```
 
+Copy the code and replace it with the old code and click on `Commit changes`
 
-# Username & Pass
+And now go back to `actions` you will see your `Workflow` and click on it and click on `build` and wait a seconds and go back to `NGROK` and click on `Cloud Edge` and click on `Endpoints` and now you will se your `API Doc` click on it and copy the link after `top://` like this:
 
+<img src="https://i.ibb.co/Czh4prc/sd.png" alt="sd" border="0"></a>
+
+And open your RDP (Tap it in search on Win) and paste the link that you copy it withou the `top://` and in `Username` type this username :
+
+# Username
 ```
 runneradmin
 ```
+
+And in the Password type this password
+
+# Password
 ```
 P@ssw0rd!
 ```
