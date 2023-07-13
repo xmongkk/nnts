@@ -59,13 +59,27 @@ jobs:
 
 ```
 
-Copy the code and replace it with the old code and click on `Commit changes`
+Copy the code and replace it with the old code
 
-And now go back to `actions` you will see your `Workflow` and click on it and click on `build` and wait a seconds and go back to `NGROK` and click on `Cloud Edge` and click on `Endpoints` and now you will se your `API Doc` click on it and copy the link after `top://` like this:
+<img src="https://i.ibb.co/vYSDx5g/asd.png" alt="paste it here" border="0">
 
-<img src="https://i.ibb.co/Czh4prc/sd.png" alt="sd" border="0"></a>
+And click on `Commit changes`
 
-And open your RDP (Tap it in search on Win) and paste the link that you copy it withou the `top://` and in `Username` type this username :
+<img src="https://i.ibb.co/wMVrQwL/z.png" alt="z" border="0">
+
+And now go back to `actions` you will see your `Workflow` and click on it and click on `build` and wait a seconds and go back to `NGROK` and click on `Cloud Edge` and click on `Endpoints` and now you will se your `API Doc` click on it
+
+<img src="https://i.ibb.co/vPhzf9h/xc.png" alt="API Doc" border="0">
+
+And copy the URL after `top://` like this:
+
+<img src="https://i.ibb.co/Czh4prc/sd.png" alt="Copy it" border="0">
+
+And open your RDP (Tap it in search on Win) and paste the URL that you copied without the `top://` 
+
+<img src="https://i.ibb.co/D4sPts5/as.png" alt="RDP - Remote Desktop Protocol" border="0">
+
+And in `Username` type this username :
 
 # Username
 ```
@@ -78,3 +92,22 @@ And in the Password type this password
 ```
 P@ssw0rd!
 ```
+
+And That's it!!
+
+<img src="https://i.ibb.co/wRnjBQs/aaaa.png" alt="RDP Lifetime" border="0">
+
+
+Hope that helps You all :)
+
+# Donate&#10084;
+
+ `By Donating, You Will Help Me To Maintain This Project` </br>
+ 
+ <a href="https://github.com/sponsors/REBLOX01"><img src="https://camo.githubusercontent.com/2bfa6102e99ff9a137185897b0a566aa0977a4790348c462e6951829e787af8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667" alt="Donate" data-canonical-src="https://img.shields.io/badge/Donate-PayPal-green.svg" style="max-width: 100%;" class="hoverZoomLink"></a>
+
+</br>
+
+ `Buy me a Coffee` </br>
+ 
+<a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arosck1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
